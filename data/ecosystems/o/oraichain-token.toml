@@ -25,6 +25,9 @@ url = "https://github.com/oraichain/assetlists"
 url = "https://github.com/oraichain/assets"
 
 [[repo]]
+url = "https://github.com/oraichain/node-electrum-client"
+
+[[repo]]
 url = "https://github.com/oraichain/audits"
 
 [[repo]]
